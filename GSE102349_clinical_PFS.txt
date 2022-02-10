@@ -1,0 +1,89 @@
+id	% intratumoral tils	% stromal tils	clinical stage	event	morphology	non-synonymous mutation burden	time to event
+GSM2735279	Not evaluated	Not evaluated	III	Disease progression	N/A	266	3.19
+GSM2735290	20	10	III	Last follow-up	mixed (round & spindle)	15	5
+GSM2735211	5	10	III	Disease progression	"undifferentiated, round"	30	6.01
+GSM2735218	5	40	III	Disease progression	"undifferentiated, round"	17	6.34
+GSM2735281	20	50	Unknown	Last follow-up	"undifferentiated, round"	244	7.1
+GSM2735314	5	30	III	Disease progression	mixed (round & spindle)	248	7.49
+GSM2735223	5	20	III	Disease progression	mixed (round & spindle)	285	8.41
+GSM2735246	10	30	III	Disease progression	"undifferentiated, spindle"	18	8.51
+GSM2735226	5	90	III	Last follow-up	"undifferentiated, round"	91	9.266666667
+GSM2735238	1	20	IV	Disease progression	"undifferentiated, round"	265	11.3
+GSM2735265	5	95	III	Last follow-up	"undifferentiated, round"	14	12.1
+GSM2735313	Not evaluated	Not evaluated	I	Last follow-up	N/A	262	12.3
+GSM2735234	10	90	Unknown	Last follow-up	mixed (round & spindle)	238	12.43333333
+GSM2735253	10	30	IV	Last follow-up	mixed (round & spindle)	41	12.86666667
+GSM2735233	5	50	IV	Last follow-up	mixed (round & spindle)	10	12.9
+GSM2735291	30	30	Unknown	Last follow-up	"undifferentiated, round"	22	13.4
+GSM2735300	10	30	IV	Disease progression	"undifferentiated, round"	14	13.83
+GSM2735284	10	60	IV	Last follow-up	mixed (round & spindle)	31	13.93333333
+GSM2735274	5	40	IV	Disease progression	differentiated	23	14.23
+GSM2735239	Not evaluated	Not evaluated	IV	Disease progression	N/A	257	14.29
+GSM2735295	15	20	IV	Disease progression	mixed (round & spindle)	39	14.29
+GSM2735228	5	90	III	Last follow-up	N/A	17	14.63333333
+GSM2735294	40	10	Unknown	Disease progression	"undifferentiated, round"	18	15.28
+GSM2735243	10	5	Unknown	Disease progression	"undifferentiated, round"	21	15.34
+GSM2735250	5	95	Unknown	Last follow-up	"undifferentiated, spindle"	17	16
+GSM2735307	5	50	IV	Last follow-up	"undifferentiated, round"	Not evaluated	16.76666667
+GSM2735264	5	35	III	Last follow-up	"undifferentiated, spindle"	16	17.23333333
+GSM2735230	20	90	Unknown	Last follow-up	"undifferentiated, round"	1013	17.5
+GSM2735305	1	90	IV	Last follow-up	differentiated	266	17.56666667
+GSM2735252	2	90	III	Last follow-up	differentiated	275	18.4
+GSM2735308	5	70	III	Last follow-up	"undifferentiated, round"	7	19.33333333
+GSM2735260	5	80	III	Last follow-up	mixed (round & spindle)	32	19.63333333
+GSM2735261	10	80	I	Last follow-up	mixed (round & spindle)	264	19.76666667
+GSM2735240	30	30	III	Last follow-up	mixed (round & spindle)	2	20.13333333
+GSM2735304	5	55	III	Last follow-up	"undifferentiated, spindle"	313	20.73333333
+GSM2735203	Not evaluated	Not evaluated	IV	Last follow-up	N/A	269	21.1
+GSM2735245	10	90	III	Last follow-up	mixed (round & spindle)	15	21.26666667
+GSM2735204	5	95	III	Disease progression	mixed (round & spindle)	50	21.39
+GSM2735298	40	0	III	Last follow-up	"undifferentiated, round"	270	21.53333333
+GSM2735217	5	10	IV	Last follow-up	"undifferentiated, spindle"	22	22.13333333
+GSM2735237	15	30	IV	Last follow-up	mixed (round & spindle)	19	22.76666667
+GSM2735297	Not evaluated	Not evaluated	IV	Last follow-up	N/A	256	22.9
+GSM2735259	10	20	Unknown	Last follow-up	"undifferentiated, round"	181	23.06666667
+GSM2735205	20	20	Unknown	Last follow-up	mixed (round & spindle)	33	23.13333333
+GSM2735310	40	20	III	Last follow-up	"undifferentiated, round"	251	24.93333333
+GSM2735220	5	70	Unknown	Last follow-up	"undifferentiated, round"	14	25.06666667
+GSM2735296	20	90	IV	Disease progression	differentiated	20	25.82
+GSM2735287	5	90	I	Last follow-up	"undifferentiated, round"	245	26.06666667
+GSM2735267	5	20	Unknown	Last follow-up	mixed (round & spindle)	301	26.6
+GSM2735273	5	85	Unknown	Last follow-up	"undifferentiated, round"	98	26.76666667
+GSM2735219	10	20	III	Last follow-up	"undifferentiated, round"	241	26.8
+GSM2735303	20	90	IV	Last follow-up	mixed (round & spindle)	257	26.8
+GSM2735208	5	10	IV	Last follow-up	mixed (round & spindle)	31	26.9
+GSM2735247	Not evaluated	Not evaluated	II	Last follow-up	N/A	239	27.26666667
+GSM2735311	1	10	III	Last follow-up	mixed (round & spindle)	24	28
+GSM2735272	5	80	I	Last follow-up	N/A	265	28.56666667
+GSM2735229	10	80	III	Last follow-up	mixed (round & spindle)	19	28.76666667
+GSM2735222	50	5	III	Last follow-up	mixed (round & spindle)	56	29.06666667
+GSM2735255	30	40	III	Last follow-up	mixed (round & spindle)	277	29.26666667
+GSM2735206	2	80	II	Last follow-up	differentiated	287	29.43333333
+GSM2735299	20	40	III	Last follow-up	"undifferentiated, round"	70	29.76666667
+GSM2735202	35	65	Unknown	Last follow-up	"undifferentiated, round"	256	30.2
+GSM2735280	10	70	I	Last follow-up	"undifferentiated, round"	17	30.9
+GSM2735216	2	50	Unknown	Last follow-up	differentiated	385	30.96666667
+GSM2735254	40	10	IV	Last follow-up	"undifferentiated, round"	20	30.96666667
+GSM2735244	30	50	III	Last follow-up	mixed (round & spindle)	13	32.16666667
+GSM2735251	5	70	IV	Disease progression	"undifferentiated, spindle"	52	32.46
+GSM2735278	10	60	III	Last follow-up	mixed (round & spindle)	296	32.83333333
+GSM2735241	10	60	Unknown	Last follow-up	differentiated	13	33.33333333
+GSM2735232	50	90	IV	Last follow-up	"undifferentiated, round"	146	33.66666667
+GSM2735215	5	90	III	Last follow-up	mixed (round & spindle)	232	34.5
+GSM2735266	5	50	III	Last follow-up	mixed (round & spindle)	255	35.66666667
+GSM2735224	10	90	Unknown	Last follow-up	differentiated	17	36
+GSM2735221	10	30	III	Last follow-up	mixed (round & spindle)	278	36.43333333
+GSM2735249	10	80	Unknown	Last follow-up	mixed (round & spindle)	255	36.6
+GSM2735292	5	70	Unknown	Last follow-up	"undifferentiated, round"	257	36.9
+GSM2735235	1	5	III	Last follow-up	mixed (round & spindle)	Not evaluated	37.1
+GSM2735257	20	90	IV	Last follow-up	N/A	260	37.13333333
+GSM2735277	5	70	III	Last follow-up	"undifferentiated, round"	271	37.73333333
+GSM2735213	Not evaluated	Not evaluated	Unknown	Last follow-up	mixed (round & spindle)	10	37.9
+GSM2735209	10	90	Unknown	Last follow-up	differentiated	Not evaluated	39.3
+GSM2735236	20	20	III	Last follow-up	"undifferentiated, round"	37	39.36666667
+GSM2735258	20	90	III	Last follow-up	"undifferentiated, spindle"	36	39.5
+GSM2735212	30	90	IV	Last follow-up	differentiated	12	40.06666667
+GSM2735285	10	30	III	Last follow-up	mixed (round & spindle)	266	41.8
+GSM2735227	15	70	III	Last follow-up	"undifferentiated, spindle"	Not evaluated	42.4
+GSM2735242	5	10	III	Last follow-up	mixed (round & spindle)	248	51.33333333
+GSM2735276	Not evaluated	Not evaluated	III	Last follow-up	N/A	312	55.23333333
