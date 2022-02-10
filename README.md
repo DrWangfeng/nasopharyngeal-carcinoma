@@ -4,7 +4,7 @@ M6A-mediated molecular patterns and tumor microenvironment infiltration characte
 Data downloading and processing 
 mRNA expression data of NPC patients of two datasets, GSE102349, and GSE53815 datasets, were obtained from Gene Expression Omnibus (GEO, https://www.ncbi.nlm.nih.gov/geo/). 
 The mRNA expression data of the GSE102349 dataset was generated using Illumina HiSeq 2000, this dataset includes mRNA expression data and clinical information from 113 NPC 
-patients, and 88 cases with progression-free survival (PFS) involved in this study.
+patients, and 88 cases with progression-free survival (PFS) involved in this study.The GSE102349 dataset was to re-run reads quality control, alignment, and quantitative gene expression analysis.
 
 Univariate Cox analysis was performed with survival R package;
 The consensus clustering was performed using the consensusClusterPlus package in R ;
